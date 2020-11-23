@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/author.png</file>
+        <file>icon/black.png</file>
+        <file>icon/choose.png</file>
+        <file>icon/ellipse.png</file>
+        <file>icon/eraser.png</file>
+        <file>icon/EraserCursor.png</file>
+        <file>icon/exit.png</file>
+        <file>icon/green.png</file>
+        <file>icon/line.png</file>
+        <file>icon/newfile.png</file>
+        <file>icon/openfile.png</file>
+        <file>icon/pen.png</file>
+        <file>icon/rectangle.png</file>
+        <file>icon/red.png</file>
+        <file>icon/savefile.png</file>
+        <file>icon/sketchpad.ico</file>
+        <file>icon/triangle.png</file>
+        <file>icon/yellow.png</file>
+    </qresource>
+</RCC>
